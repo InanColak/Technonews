@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic[email]
+pydantic-settings
+sqlalchemy
+aiosqlite
+feedparser 

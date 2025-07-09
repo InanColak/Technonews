@@ -1,0 +1,27 @@
+{
+  "feeds": [
+    "https://techcrunch.com/feed/",
+    "https://feeds.cnn.com/rss/cnn_tech.rss",
+    "https://www.wired.com/feed/rss",
+    "https://feeds.arstechnica.com/arstechnica/index",
+    "https://blog.openai.com/rss/",
+    "https://venturebeat.com/feed/",
+    "https://www.theverge.com/rss/index.xml",
+    "https://feeds.feedburner.com/Mashable",
+    "https://www.artificialintelligence-news.com/feed/",
+    "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+    "https://status.anthropic.com/history.rss",
+    "https://rsshub.app/anthropic/news",
+    "https://rsshub.app/anthropic/engineering"
+
+
+  ],
+  "websites": [
+    "https://techcrunch.com",
+    "https://arstechnica.com", 
+    "https://wired.com",
+    "https://openai.com",
+    "https://venturebeat.com",
+    "https://theverge.com"
+  ]
+}
